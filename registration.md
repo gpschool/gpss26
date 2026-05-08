@@ -4,10 +4,7 @@ title: Registration
 weight: 6
 ---
 
-
-## Fees
-
-### Standard registration closes August 30
+### Registration closes August 30
 
 |               Attendee                                 |     Fee     | 
 |:--------------------------------------------------------|-------------:|
@@ -30,7 +27,7 @@ weight: 6
 ### Registrations are now closed.
 -->
 
-##[Register here](https://estore.manchester.ac.uk/short-courses/faculty-of-science-engineering/department-of-computer-science/centre-of-excellence-for-ai-fundamentals/gaussian-process-and-uncertainty-quantification-summer-school)
+**[Register here](https://estore.manchester.ac.uk/short-courses/faculty-of-science-engineering/department-of-computer-science/centre-of-excellence-for-ai-fundamentals/gaussian-process-and-uncertainty-quantification-summer-school)**
 
 <!---
 
