@@ -3,20 +3,20 @@ layout: page
 title: Registration
 weight: 6
 ---
-<!---
+
 
 ## Fees
 
-### Standard registrations: close August 18
+### Standard registration closes August 30
 
 |               Attendee                                 |     Fee     | 
 |:--------------------------------------------------------|-------------:|
-|Academic (School and workshop)                          |      £400   |  
-|Academic (Workshop only)                                |       £100   |  
-|Industrial and Other Non-Academic (School and workshop) |      £1,000   |
-|Industrial and Other Non-Academic (Workshop only)       |      £250   |
+|Academic members and students                          |      £200   |  
+|Industrial and Other Non-Academic |      £1,000   |
+
 
 <!---
+
 
 ### Early-bird registrations: close August 1, 2025
 
@@ -27,21 +27,17 @@ weight: 6
 |Industrial and Other Non-Academic (School and workshop) |      £900   |
 |Industrial and Other Non-Academic (Workshop only)       |      £225   |
 
-
-
-**[Register here](https://estore.manchester.ac.uk/short-courses/faculty-of-science-engineering/department-of-computer-science/centre-of-excellence-for-ai-fundamentals/gaussian-process-and-uncertainty-quantification-summer-school-2025)**
-
-
-## Registration 
-
+### Registrations are now closed.
 -->
 
-### Registrations are now closed.
+##[Register here](https://estore.manchester.ac.uk/short-courses/faculty-of-science-engineering/department-of-computer-science/centre-of-excellence-for-ai-fundamentals/gaussian-process-and-uncertainty-quantification-summer-school)
 
 <!---
 
+## Registration 
+
 Contact the [organisers](mailto:mauricio.alvarezlopez@manchester.ac.uk) if you want to be put on the waiting list.
+-->
 
 If you have registered and need a visa to come to the UK, please apply for a Standard visa. More details regarding the visa application can be found
 [here](https://www.gov.uk/standard-visitor-visa). If you need an invitation letter for your visa application, please [contact us](mailto:mauricio.alvarezlopez@manchester.ac.uk).
--->
