@@ -4,7 +4,7 @@ title: Registration
 weight: 6
 ---
 
-### Registration closes August 30
+### Registration closes September 4
 
 |               Attendee                                 |     Fee     | 
 |:--------------------------------------------------------|-------------:|
