@@ -3,7 +3,7 @@ layout: page
 title: Registration
 weight: 6
 ---
-
+<!---
 ### Registration closes September 4
 
 |               Attendee                                 |     Fee     | 
@@ -12,7 +12,7 @@ weight: 6
 |Industrial and Other Non-Academic |      £1,000   |
 
 
-<!---
+
 
 
 ### Early-bird registrations: close August 1, 2025
@@ -23,13 +23,15 @@ weight: 6
 |Academic (Workshop only)                               |      £75  |  
 |Industrial and Other Non-Academic (School and workshop) |      £900   |
 |Industrial and Other Non-Academic (Workshop only)       |      £225   |
+-->
 
 ### Registrations are now closed.
--->
+
+<!---
+
 
 **[Register here](https://estore.manchester.ac.uk/short-courses/faculty-of-science-engineering/department-of-computer-science/centre-of-excellence-for-ai-fundamentals/gaussian-process-and-uncertainty-quantification-summer-school)**
 
-<!---
 
 ## Registration 
 
