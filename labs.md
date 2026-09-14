@@ -13,7 +13,7 @@ Each lab sheet will be made available on the day of the lab.
 
 This lab is designed to introduce Gaussian processes in a practical way, illustrating the concepts introduced in the first two lectures. The key aspects of Gaussian process regression are covered: the covariance function (aka kernels); sampling a Gaussian process; and the regression model. The notebook will introduce the open source Python library GPy which handles the kernels, regression and optimisation of hyperparameter, allowing us to easily access the results we want.
 
-[![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gpschool/gpss25/blob/gh-pages/labs/lab_1.ipynb) &nbsp;&nbsp;&nbsp;
+[![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gpschool/gpss26/blob/gh-pages/labs/lab_1.ipynb) &nbsp;&nbsp;&nbsp;
 
 <!---
 
